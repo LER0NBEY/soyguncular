@@ -1,6 +1,6 @@
 # Güncel Çalışıyor Durumda..!
 
-# Grub Tagger Bot💥
+# Soyguncular Tagger Bot💥
 _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kadar üyeden bahsedebilir. !⚡️**_
 
 ### 🗂 Bilgi
@@ -9,7 +9,7 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - [Developer](https://t.me/Hzchavo)✨
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LER0NBEY/SoyguncularTag)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LER0NBEY/Soyguncular)
 
 ### 🎯 Bana Destek Olmak İstermisin Aşğıdaki Bağlantıdan Bağış Yapa Bilirsin
 
